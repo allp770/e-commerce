@@ -10,7 +10,7 @@
 .main
 {
     width: 100%;
-    background-image: url(https://cdn.pixabay.com/photo/2016/04/23/18/45/planet-1348079_960_720.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://www.10wallpaper.com/wallpaper/1366x768/1205/earth_and_moon-Universe_Photography_Wallpaper_1366x768.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
